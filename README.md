@@ -1,4 +1,4 @@
-# Time Series Classification Challenge
+# Image Classification Challenge
 
 Challenge project for the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The project addresses a multivariate time series classification task using recurrent neural networks (RNNs), implemented in a Jupyter Notebook (primarily run on Google Colab). The repository contains the notebook and the challenge report.
 
@@ -41,7 +41,8 @@ At the moment, the dataset is not included in this repository and will be upload
 
 - Python  
 - Google Colab  
-- RNN for time series classification
+- CNN for image classification
+- ViT for image classification
 
 ---
 
