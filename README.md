@@ -7,8 +7,11 @@ Challenge project for the Artificial Neural Networks and Deep Learning course at
 
 ## Overview
 
-The goal of this project was to correctly classify time series samples by designing, training, and evaluating RNN-based architectures on the dataset provided for the course challenge. The notebook includes data exploration, preprocessing, model definition, training, and evaluation, as well as a discussion of the results.  
-The final solution was submitted to the official Kaggle challenge associated with the course, achieving a leaderboard position of 17th out of 193 teams.
+## Overview
+
+The goal of this project was to correctly classify images by designing, training, and evaluating CNN/ViT-based architectures on the dataset provided for the course challenge. The notebook includes data exploration, preprocessing, model definition, training, and evaluation, as well as a discussion of the results.  
+The final solution was submitted to the official Kaggle challenge associated with the course, achieving a leaderboard position of 66th out of 193 teams.
+
 
 ---
 
