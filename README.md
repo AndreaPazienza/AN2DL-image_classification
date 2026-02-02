@@ -1,6 +1,7 @@
 # Image Classification Challenge
 
-Challenge project for the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The project addresses a multivariate time series classification task using recurrent neural networks (RNNs), implemented in a Jupyter Notebook (primarily run on Google Colab). The repository contains the notebook and the challenge report.
+Challenge project for the Artificial Neural Networks and Deep Learning course at Politecnico di Milano. The project addresses an image classification task using convolutional neural networks (CNNs) and vision transformers (ViTs), implemented in a Jupyter Notebook (primarily run on Google Colab). The repository contains the notebook and the challenge report.
+
 
 ---
 
