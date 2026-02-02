@@ -7,8 +7,6 @@ Challenge project for the Artificial Neural Networks and Deep Learning course at
 
 ## Overview
 
-## Overview
-
 The goal of this project was to correctly classify images by designing, training, and evaluating CNN/ViT-based architectures on the dataset provided for the course challenge. The notebook includes data exploration, preprocessing, model definition, training, and evaluation, as well as a discussion of the results.  
 The final solution was submitted to the official Kaggle challenge associated with the course, achieving a leaderboard position of 66th out of 193 teams.
 
@@ -18,9 +16,10 @@ The final solution was submitted to the official Kaggle challenge associated wit
 ## Project Structure
 
 - `Models/`: Contains the Jupyter Notebooks implementing and evaluating the models used in the challenge.
-  - `GRU.ipynb`: Implements a baseline GRU model for multivariate time series classification.
-  - `BaggedGRU.ipynb`: Implements an ensemble model obtained by bagging 5 GRU networks to improve robustness and performance.
-  - `AttentionCNNLSTM.ipynb`: Implements a hybrid model combining convolutional layers, LSTM units, and an attention mechanism for time series classification.
+  - `DatasetCleaning.ipynb`: Performs dataset inspection, cleaning, and preprocessing steps used across experiments.
+  - `ResNetFromScratch.ipynb`: Implements and trains a ResNet model from scratch for image classification.
+  - `FineTunedConvNeXt.ipynb`: Fine-tunes a ConvNeXt model for image classification.
+  - `FineTunedTransformer.ipynb`: Fine-tunes a Vision Transformer model for image classification.
 - `Deliverables/`: Contains the project report.
 
 ---
